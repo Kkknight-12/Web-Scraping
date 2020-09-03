@@ -1,0 +1,589 @@
+Name,Rank,State
+New York,1,New York
+Los Angeles,2,California
+Chicago,3,Illinois
+Houston,4,Texas
+Phoenix,5,Arizona
+Philadelphia,6,Pennsylvania
+San Antonio,7,"Texas
+"
+San Diego,8,"California
+"
+Dallas,9,"Texas
+"
+San Jose,10,"California
+"
+Austin,11,"Texas
+"
+Jacksonville,12,Florida
+Fort Worth,13,"Texas
+"
+Columbus,14,Ohio
+Charlotte,15,North Carolina
+San Francisco,16,"California
+"
+Indianapolis,17,Indiana
+Seattle,18,Washington
+Denver,19,Colorado
+Washington,20,District of Columbia
+Boston,21,Massachusetts
+El Paso,22,"Texas
+"
+Nashville,23,Tennessee
+Detroit,24,Michigan
+Oklahoma City,25,Oklahoma
+Portland,26,Oregon
+Las Vegas,27,Nevada
+Memphis,28,"Tennessee
+"
+Louisville,29,Kentucky
+Baltimore,30,Maryland
+Milwaukee,31,Wisconsin
+Albuquerque,32,New Mexico
+Tucson,33,"Arizona
+"
+Fresno,34,"California
+"
+Mesa,35,"Arizona
+"
+Sacramento,36,"California
+"
+Atlanta,37,Georgia
+Kansas City,38,Missouri
+Colorado Springs,39,"Colorado
+"
+Omaha,40,Nebraska
+Raleigh,41,"North Carolina
+"
+Miami,42,"Florida
+"
+Long Beach,43,"California
+"
+Virginia Beach,44,Virginia
+Oakland,45,"California
+"
+Minneapolis,46,Minnesota
+Tulsa,47,"Oklahoma
+"
+Tampa,48,"Florida
+"
+Arlington,49,"Texas
+"
+New Orleans,50,Louisiana
+Wichita,51,Kansas
+Bakersfield,52,"California
+"
+Cleveland,53,"Ohio
+"
+Aurora,54,"Colorado
+"
+Anaheim,55,"California
+"
+Honolulu,56,Hawaii
+Santa Ana,57,"California
+"
+Riverside,58,"California
+"
+Corpus Christi,59,"Texas
+"
+Lexington,60,"Kentucky
+"
+Henderson,61,"Nevada
+"
+Stockton,62,"California
+"
+Saint Paul,63,"Minnesota
+"
+Cincinnati,64,"Ohio
+"
+St. Louis,65,"Missouri
+"
+Pittsburgh,66,"Pennsylvania
+"
+Greensboro,67,"North Carolina
+"
+Lincoln,68,"Nebraska
+"
+Anchorage,69,Alaska
+Plano,70,"Texas
+"
+Orlando,71,"Florida
+"
+Irvine,72,"California
+"
+Newark,73,New Jersey
+Durham,74,"North Carolina
+"
+Chula Vista,75,"California
+"
+Toledo,76,"Ohio
+"
+Fort Wayne,77,"Indiana
+"
+St. Petersburg,78,"Florida
+"
+Laredo,79,"Texas
+"
+Jersey City,80,"New Jersey
+"
+Chandler,81,"Arizona
+"
+Madison,82,"Wisconsin
+"
+Lubbock,83,"Texas
+"
+Scottsdale,84,"Arizona
+"
+Reno,85,"Nevada
+"
+Buffalo,86,"New York
+"
+Gilbert,87,"Arizona
+"
+Glendale,88,"Arizona
+"
+North Las Vegas,89,"Nevada
+"
+Winston–Salem,90,"North Carolina
+"
+Chesapeake,91,"Virginia
+"
+Norfolk,92,"Virginia
+"
+Fremont,93,"California
+"
+Garland,94,"Texas
+"
+Irving,95,"Texas
+"
+Hialeah,96,"Florida
+"
+Richmond,97,"Virginia
+"
+Boise,98,Idaho
+Spokane,99,"Washington
+"
+Baton Rouge,100,"Louisiana
+"
+Tacoma,101,"Washington
+"
+San Bernardino,102,"California
+"
+Modesto,103,"California
+"
+Fontana,104,"California
+"
+Des Moines,105,Iowa
+Moreno Valley,106,"California
+"
+Santa Clarita,107,"California
+"
+Fayetteville,108,"North Carolina
+"
+Birmingham,109,Alabama
+Oxnard,110,"California
+"
+Rochester,111,"New York
+"
+Port St. Lucie,112,"Florida
+"
+Grand Rapids,113,"Michigan
+"
+Huntsville,114,"Alabama
+"
+Salt Lake City,115,Utah
+Frisco,116,"Texas
+"
+Yonkers,117,"New York
+"
+Amarillo,118,"Texas
+"
+Glendale,119,"California
+"
+Huntington Beach,120,"California
+"
+McKinney,121,"Texas
+"
+Montgomery,122,"Alabama
+"
+Augusta,123,"Georgia
+"
+Aurora,124,"Illinois
+"
+Akron,125,"Ohio
+"
+Little Rock,126,Arkansas
+Tempe,127,"Arizona
+"
+Columbus,128,"Georgia
+"
+Overland Park,129,"Kansas
+"
+Grand Prairie,130,"Texas
+"
+Tallahassee,131,"Florida
+"
+Cape Coral,132,"Florida
+"
+Mobile,133,"Alabama
+"
+Knoxville,134,"Tennessee
+"
+Shreveport,135,"Louisiana
+"
+Worcester,136,"Massachusetts
+"
+Ontario,137,"California
+"
+Vancouver,138,"Washington
+"
+Sioux Falls,139,South Dakota
+Chattanooga,140,"Tennessee
+"
+Brownsville,141,"Texas
+"
+Fort Lauderdale,142,"Florida
+"
+Providence,143,Rhode Island
+Newport News,144,"Virginia
+"
+Rancho Cucamonga,145,"California
+"
+Santa Rosa,146,"California
+"
+Peoria,147,"Arizona
+"
+Oceanside,148,"California
+"
+Elk Grove,149,"California
+"
+Salem,150,"Oregon
+"
+Pembroke Pines,151,"Florida
+"
+Eugene,152,"Oregon
+"
+Garden Grove,153,"California
+"
+Cary,154,"North Carolina
+"
+Fort Collins,155,"Colorado
+"
+Corona,156,"California
+"
+Springfield,157,"Missouri
+"
+Jackson,158,Mississippi
+Alexandria,159,"Virginia
+"
+Hayward,160,"California
+"
+Clarksville,161,"Tennessee
+"
+Lakewood,162,"Colorado
+"
+Lancaster,163,"California
+"
+Salinas,164,"California
+"
+Palmdale,165,"California
+"
+Hollywood,166,"Florida
+"
+Springfield,167,"Massachusetts
+"
+Macon,168,"Georgia
+"
+Kansas City,169,"Kansas
+"
+Sunnyvale,170,"California
+"
+Pomona,171,"California
+"
+Killeen,172,"Texas
+"
+Escondido,173,"California
+"
+Pasadena,174,"Texas
+"
+Naperville,175,"Illinois
+"
+Bellevue,176,"Washington
+"
+Joliet,177,"Illinois
+"
+Murfreesboro,178,"Tennessee
+"
+Midland,179,"Texas
+"
+Rockford,180,"Illinois
+"
+Paterson,181,"New Jersey
+"
+Savannah,182,"Georgia
+"
+Bridgeport,183,Connecticut
+Torrance,184,"California
+"
+McAllen,185,"Texas
+"
+Syracuse,186,"New York
+"
+Surprise,187,"Arizona
+"
+Denton,188,"Texas
+"
+Roseville,189,"California
+"
+Thornton,190,"Colorado
+"
+Miramar,191,"Florida
+"
+Pasadena,192,"California
+"
+Mesquite,193,"Texas
+"
+Olathe,194,"Kansas
+"
+Dayton,195,"Ohio
+"
+Carrollton,196,"Texas
+"
+Waco,197,"Texas
+"
+Orange,198,"California
+"
+Fullerton,199,"California
+"
+Charleston,200,South Carolina
+West Valley City,201,"Utah
+"
+Visalia,202,"California
+"
+Hampton,203,"Virginia
+"
+Gainesville,204,"Florida
+"
+Warren,205,"Michigan
+"
+Coral Springs,206,"Florida
+"
+Cedar Rapids,207,"Iowa
+"
+Round Rock,208,"Texas
+"
+Sterling Heights,209,"Michigan
+"
+Kent,210,"Washington
+"
+Columbia,211,"South Carolina
+"
+Santa Clara,212,"California
+"
+New Haven,213,"Connecticut
+"
+Stamford,214,"Connecticut
+"
+Concord,215,"California
+"
+Elizabeth,216,"New Jersey
+"
+Athens,217,"Georgia
+"
+Thousand Oaks,218,"California
+"
+Lafayette,219,"Louisiana
+"
+Simi Valley,220,"California
+"
+Topeka,221,"Kansas
+"
+Norman,222,"Oklahoma
+"
+Fargo,223,North Dakota
+Wilmington,224,"North Carolina
+"
+Abilene,225,"Texas
+"
+Odessa,226,"Texas
+"
+Columbia,227,"Missouri
+"
+Pearland,228,"Texas
+"
+Victorville,229,"California
+"
+Hartford,230,"Connecticut
+"
+Vallejo,231,"California
+"
+Allentown,232,"Pennsylvania
+"
+Berkeley,233,"California
+"
+Richardson,234,"Texas
+"
+Arvada,235,"Colorado
+"
+Ann Arbor,236,"Michigan
+"
+Rochester,237,"Minnesota
+"
+Cambridge,238,"Massachusetts
+"
+Sugar Land,239,"Texas
+"
+Lansing,240,"Michigan
+"
+Evansville,241,"Indiana
+"
+College Station,242,"Texas
+"
+Fairfield,243,"California
+"
+Clearwater,244,"Florida
+"
+Beaumont,245,"Texas
+"
+Independence,246,"Missouri
+"
+Provo,247,"Utah
+"
+West Jordan,248,"Utah
+"
+Murrieta,249,"California
+"
+Palm Bay,250,"Florida
+"
+El Monte,251,"California
+"
+Carlsbad,252,"California
+"
+ ,,"South Carolina
+"
+Temecula,254,"California
+"
+Clovis,255,"California
+"
+Springfield,256,"Illinois
+"
+Meridian,257,"Idaho
+"
+Westminster,258,"Colorado
+"
+Costa Mesa,259,"California
+"
+High Point,260,"North Carolina
+"
+Manchester,261,New Hampshire
+Pueblo,262,"Colorado
+"
+Lakeland,263,"Florida
+"
+Pompano Beach,264,"Florida
+"
+West Palm Beach,265,"Florida
+"
+Antioch,266,"California
+"
+Everett,267,"Washington
+"
+Downey,268,"California
+"
+Lowell,269,"Massachusetts
+"
+Centennial,270,"Colorado
+"
+Elgin,271,"Illinois
+"
+Richmond,272,"California
+"
+Peoria,273,"Illinois
+"
+Broken Arrow,274,"Oklahoma
+"
+Miami Gardens,275,"Florida
+"
+Billings,276,Montana
+Jurupa Valley,277,"California
+"
+Sandy Springs,278,"Georgia
+"
+Gresham,279,"Oregon
+"
+Lewisville,280,"Texas
+"
+Hillsboro,281,"Oregon
+"
+Ventura,282,"California
+"
+Greeley,283,"Colorado
+"
+Inglewood,284,"California
+"
+Waterbury,285,"Connecticut
+"
+League City,286,"Texas
+"
+Santa Maria,287,"California
+"
+Tyler,288,"Texas
+"
+Davie,289,"Florida
+"
+Lakewood,290,"New Jersey
+"
+Daly City,291,"California
+"
+Boulder,292,"Colorado
+"
+Allen,293,"Texas
+"
+West Covina,294,"California
+"
+Sparks,295,"Nevada
+"
+Wichita Falls,296,"Texas
+"
+Green Bay,297,"Wisconsin
+"
+San Mateo,298,"California
+"
+Norwalk,299,"California
+"
+Rialto,300,"California
+"
+Las Cruces,301,"New Mexico
+"
+Chico,302,"California
+"
+El Cajon,303,"California
+"
+Burbank,304,"California
+"
+South Bend,305,"Indiana
+"
+Renton,306,"Washington
+"
+Vista,307,"California
+"
+Davenport,308,"Iowa
+"
+Edinburg,309,"Texas
+"
+Tuscaloosa,310,"Alabama
+"
+Carmel,311,"Indiana
+"
+Spokane Valley,312,"Washington
+"
+San Angelo,313,"Texas
+"
+Vacaville,314,"California
+"
+Clinton,315,"Michigan
+"
+Bend,316,"Oregon
+"
+Woodbridge,317,"New Jersey
+"
