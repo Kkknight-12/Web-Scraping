@@ -11,7 +11,8 @@ class JsonfilesSpider(scrapy.Spider):
         resp = json.loads(response.body)
 
         for tweet in resp:
-            yield{'source': tweet ['source'],
+            yield{
+                   'source': tweet ['source'],
                    'id_str': tweet['id_str'],
                    'text': tweet['text'],
                    'created_at': tweet['created_at'],
